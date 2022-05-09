@@ -1,0 +1,12 @@
+.div{
+  @apply bg-gray-200 p-6 w-80 mt-10 mx-auto space-y-4;
+
+  p {
+    @apply underline text-3xl font-bold;
+  }
+
+  h1 {
+    @apply text-sky-600;
+  }
+
+}
